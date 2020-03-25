@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://gidroburkrasnodar.ru/sitemap.xml
+Host: gidroburkrasnodar.ru
